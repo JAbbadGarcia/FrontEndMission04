@@ -2,6 +2,8 @@
 
 Practica FrontEnd Mission 04
 Pokedex
+<br>
+<br>
 <a href="https://github.com/JAbbadGarcia/FrontEndMission04/tree/main/pokedex">1.- Pokedex</a>
 <br>
 <br>
